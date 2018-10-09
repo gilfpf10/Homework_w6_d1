@@ -1,0 +1,21 @@
+1 Miss Scarlet, because its a const variable
+
+2 TypeError: Assignment to constant variable.
+
+
+3 Professor Plum,
+var is let but its not inside curly brackets
+
+4 Mrs. Peacock, Miss Scarlet, Professor Plum.
+var is let but its not inside the function brackets
+
+5 The weapon is the Revolver, because of "const change Weapon"
+declared in the function
+
+6 Mrs. White, because of "const plotTwist" is called
+
+7 The murderer is Mr. Green, because both other var are let
+
+8 The weapon is Candle Stick, because its changed within the function
+
+9 The murderer is Professor Plum.
